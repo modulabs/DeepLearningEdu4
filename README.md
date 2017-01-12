@@ -3,15 +3,10 @@
 ## Course Info
   - CS231n: Convolutional Neural Networks for Visual Recognition (by Standford University)
   - Course URL : http://cs231n.stanford.edu/
-  
-## Course Syllabus
-  - also with lecture slides
-  - http://cs231n.stanford.edu/syllabus.html
- 
-## Course Note
-  - http://cs231n.github.io/
+  - Course Syllabus : http://cs231n.stanford.edu/syllabus.html
+  - Course Notes : http://cs231n.github.io/
 
-## Modulab Course Link
+## Modulab Study Board
   - http://www.modulabs.co.kr/DeepLabEDU
   
 ## Youtube (for lecture video)
