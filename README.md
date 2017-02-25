@@ -9,6 +9,13 @@
 ## Modulab Study Board
   - http://www.modulabs.co.kr/DeepLabEDU
   
+## Discussion
+  - Kakao Talk: https://open.kakao.com/o/gZ01EAr
+  - Jandi: https://deeplearningedu4.jandi.com/
+  
+## Assignment Solution (Ongoing)
+  - https://github.com/Curt-Park/cs231n_assignments
+  
 ## Youtube (for lecture video)
   - https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG
   
